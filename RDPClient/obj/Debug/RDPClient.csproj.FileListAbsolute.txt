@@ -1,0 +1,17 @@
+D:\MyFolders\Work\repos\RDPClient\RDPClient\bin\Debug\RDPClient.exe.config
+D:\MyFolders\Work\repos\RDPClient\RDPClient\bin\Debug\RDPClient.exe
+D:\MyFolders\Work\repos\RDPClient\RDPClient\bin\Debug\RDPClient.pdb
+D:\MyFolders\Work\repos\RDPClient\RDPClient\bin\Debug\Interop.MSTSCLib.dll
+D:\MyFolders\Work\repos\RDPClient\RDPClient\bin\Debug\AxInterop.MSTSCLib.dll
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\Interop.MSTSCLib.dll
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\AxInterop.MSTSCLib.dll
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\RDPClient.csproj.ResolveComReference.cache
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\RDPClient.Form1.resources
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\RDPClient.Properties.Resources.resources
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\RDPClient.csproj.GenerateResource.cache
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\RDPClient.csproj.CoreCompileInputs.cache
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\RDPClient.exe
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\RDPClient.pdb
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\RDPClient.Form2.resources
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\RDPClient.MassageForUser.resources
+D:\MyFolders\Work\repos\RDPClient\RDPClient\obj\Debug\RDPClient.csprojAssemblyReference.cache
